@@ -1,0 +1,8 @@
+2023/06/30-15:56:39.966 5bf4 Reusing MANIFEST B:/NeedsToBeDone/ProjectAzrael/AnimationsTEST/AzraelAnimTests/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/30-15:56:39.967 5bf4 Recovering log #4
+2023/06/30-15:56:39.967 5bf4 Reusing old log B:/NeedsToBeDone/ProjectAzrael/AnimationsTEST/AzraelAnimTests/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000004.log 
+2023/06/30-16:00:07.545 681c Level-0 table #8: started
+2023/06/30-16:00:07.545 681c Level-0 table #8: 0 bytes OK
+2023/06/30-16:00:07.546 681c Delete type=0 #4
+2023/06/30-16:00:07.547 681c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/06/30-16:00:07.547 681c Manual compaction at level-1 from (begin) .. (end); will stop at (end)
