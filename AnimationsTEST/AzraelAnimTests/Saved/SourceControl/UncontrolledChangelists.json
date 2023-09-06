@@ -6,6 +6,10 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"B:/NeedsToBeDone/ProjectAzrael/Project-Azrael/AnimationsTEST/AzraelAnimTests/Content/Main.umap",
+				"B:/NeedsToBeDone/ProjectAzrael/Project-Azrael/AnimationsTEST/AzraelAnimTests/Content/Imports/Idle/IdleBase01_Skeleton.uasset",
+				"B:/NeedsToBeDone/ProjectAzrael/Project-Azrael/AnimationsTEST/AzraelAnimTests/Content/Imports/Idle/IdleBase01_PhysicsAsset.uasset",
+				"B:/NeedsToBeDone/ProjectAzrael/Project-Azrael/AnimationsTEST/AzraelAnimTests/Content/Imports/Idle/IdleBase01.uasset",
+				"B:/NeedsToBeDone/ProjectAzrael/Project-Azrael/AnimationsTEST/AzraelAnimTests/Content/Imports/Idle/IdleBase01_SourceIK.uasset",
 				"B:/NeedsToBeDone/ProjectAzrael/Project-Azrael/AnimationsTEST/AzraelAnimTests/Content/Imports/Idle/Animations/IdleBase01_Joseph_Reference_001_Joseph_Reference_001_Joseph_Idle_Base01_0620_AnimLayer.uasset",
 				"B:/NeedsToBeDone/ProjectAzrael/Project-Azrael/AnimationsTEST/AzraelAnimTests/Content/MetaHumans/Ettore/Male/Medium/NormalWeight/Body/m_med_nrw_body.uasset",
 				"B:/NeedsToBeDone/ProjectAzrael/Project-Azrael/AnimationsTEST/AzraelAnimTests/Content/MetaHumans/Ettore/Face/Ettore_FaceMesh.uasset",
