@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Project-Azrael/Azrael_MasterProject/Content/Blueprints/AnimationBPs/BS_TransferRig02.uasset",
+				"C:/Project-Azrael/Azrael_MasterProject/Content/__ExternalActors__/Levels/Testing/D/KE/3JMPSDU4BJGZN0WPH1UNDV.uasset",
 				"B:/NeedsToBeDone/ProjectAzrael/Project-Azrael/Azrael_MasterProject/Content/toTransfer/BP_mainCharacter.uasset",
 				"B:/NeedsToBeDone/ProjectAzrael/Project-Azrael/Azrael_MasterProject/Content/Blueprints/inputs/IA_attack.uasset",
 				"B:/NeedsToBeDone/ProjectAzrael/Project-Azrael/Azrael_MasterProject/Content/Blueprints/inputs/IA_jumping.uasset",
