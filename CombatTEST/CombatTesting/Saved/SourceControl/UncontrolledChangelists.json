@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Project-Azrael/CombatTEST/CombatTesting/Content/AnimationEdits/TransferRigV2_LightAttacksBaked.uasset",
+				"D:/Project-Azrael/CombatTEST/CombatTesting/Content/AnimationEdits/TransferRigV2_IdleBaked.uasset",
+				"D:/Project-Azrael/CombatTEST/CombatTesting/Content/AnimationEdits/TransferRigV2_HeavyAttackBaked.uasset",
 				"B:/NeedsToBeDone/ProjectAzrael/Project-Azrael/MovementTEST/MovementTesting/Content/Main.umap",
 				"B:/NeedsToBeDone/ProjectAzrael/Project-Azrael/CombatTEST/CombatTesting/Content/toTransfer/nonAnimations/inputs/IA_attack.uasset",
 				"B:/NeedsToBeDone/ProjectAzrael/Project-Azrael/CombatTEST/CombatTesting/Content/toTransfer/nonAnimations/inputs/IA_CombatReady.uasset",
