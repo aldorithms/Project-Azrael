@@ -7,19 +7,20 @@
 			"files": [
 				"C:/Users/aldor/source/repos/Project-Azrael/InventoryTEST/SpatialInventoryTest/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/aldor/source/repos/Project-Azrael/InventoryTEST/SpatialInventoryTest/Content/Inventory/Inventory_Widget.uasset",
-				"C:/Users/aldor/source/repos/Project-Azrael/InventoryTEST/SpatialInventoryTest/Content/Inventory/InventorComponent.uasset",
 				"C:/Users/aldor/source/repos/Project-Azrael/InventoryTEST/SpatialInventoryTest/Content/Inventory/InventoryGrid_Widget.uasset",
 				"C:/Users/aldor/source/repos/Project-Azrael/InventoryTEST/SpatialInventoryTest/Content/Inventory/InventoryComponent.uasset",
 				"C:/Users/aldor/source/repos/Project-Azrael/InventoryTEST/SpatialInventoryTest/Content/Inventory/Line.uasset",
 				"C:/Users/aldor/source/repos/Project-Azrael/InventoryTEST/SpatialInventoryTest/Content/Inventory/Tile.uasset",
-				"C:/Users/aldor/source/repos/Project-Azrael/InventoryTEST/SpatialInventoryTest/Content/Inventory/ToggleInventory.uasset",
-				"C:/Users/aldor/source/repos/Project-Azrael/InventoryTEST/SpatialInventoryTest/Content/Inventory/IA_Toggle_Inventory.uasset",
 				"C:/Users/aldor/source/repos/Project-Azrael/InventoryTEST/SpatialInventoryTest/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/aldor/source/repos/Project-Azrael/InventoryTEST/SpatialInventoryTest/Content/Inventory/IMC_Inventory.uasset",
 				"C:/Users/aldor/source/repos/Project-Azrael/InventoryTEST/SpatialInventoryTest/Content/ThirdPerson/Input/IMC_Default.uasset",
 				"C:/Users/aldor/source/repos/Project-Azrael/InventoryTEST/SpatialInventoryTest/Content/Inventory/IA_ToggleInventory.uasset",
 				"C:/Users/aldor/source/repos/Project-Azrael/InventoryTEST/SpatialInventoryTest/Content/Inventory/Item_Widget.uasset",
-				"C:/Users/aldor/source/repos/Project-Azrael/InventoryTEST/SpatialInventoryTest/Content/Inventory/SB_Color.uasset"
+				"C:/Users/aldor/source/repos/Project-Azrael/InventoryTEST/SpatialInventoryTest/Content/Inventory/SB_Color.uasset",
+				"C:/Users/aldor/source/repos/Project-Azrael/InventoryTEST/SpatialInventoryTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
+				"C:/Users/aldor/source/repos/Project-Azrael/InventoryTEST/SpatialInventoryTest/Content/Inventory/InventorComponent.uasset",
+				"C:/Users/aldor/source/repos/Project-Azrael/InventoryTEST/SpatialInventoryTest/Content/Inventory/ToggleInventory.uasset",
+				"C:/Users/aldor/source/repos/Project-Azrael/InventoryTEST/SpatialInventoryTest/Content/Inventory/IA_Toggle_Inventory.uasset",
+				"C:/Users/aldor/source/repos/Project-Azrael/InventoryTEST/SpatialInventoryTest/Content/Inventory/IMC_Inventory.uasset"
 			]
 		}
 	]
