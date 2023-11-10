@@ -1,0 +1,33 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Project-Azrael/CombatTEST/CombatTesting/Content/AnimationEdits/TransferRigV2_LightAttacksBaked.uasset",
+				"D:/Project-Azrael/CombatTEST/CombatTesting/Content/AnimationEdits/TransferRigV2_IdleBaked.uasset",
+				"D:/Project-Azrael/CombatTEST/CombatTesting/Content/AnimationEdits/TransferRigV2_HeavyAttackBaked.uasset",
+				"B:/NeedsToBeDone/ProjectAzrael/Project-Azrael/MovementTEST/MovementTesting/Content/Main.umap",
+				"B:/NeedsToBeDone/ProjectAzrael/Project-Azrael/CombatTEST/CombatTesting/Content/toTransfer/nonAnimations/inputs/IA_attack.uasset",
+				"B:/NeedsToBeDone/ProjectAzrael/Project-Azrael/CombatTEST/CombatTesting/Content/toTransfer/nonAnimations/inputs/IA_CombatReady.uasset",
+				"B:/NeedsToBeDone/ProjectAzrael/Project-Azrael/CombatTEST/CombatTesting/Content/toTransfer/nonAnimations/inputs/IA_Crouch.uasset",
+				"B:/NeedsToBeDone/ProjectAzrael/Project-Azrael/CombatTEST/CombatTesting/Content/toTransfer/nonAnimations/inputs/IA_jumping.uasset",
+				"B:/NeedsToBeDone/ProjectAzrael/Project-Azrael/CombatTEST/CombatTesting/Content/toTransfer/nonAnimations/inputs/IA_looking.uasset",
+				"B:/NeedsToBeDone/ProjectAzrael/Project-Azrael/CombatTEST/CombatTesting/Content/toTransfer/nonAnimations/inputs/IA_movement.uasset",
+				"B:/NeedsToBeDone/ProjectAzrael/Project-Azrael/CombatTEST/CombatTesting/Content/toTransfer/nonAnimations/inputs/IA_ShoulderSwap.uasset",
+				"B:/NeedsToBeDone/ProjectAzrael/Project-Azrael/CombatTEST/CombatTesting/Content/toTransfer/nonAnimations/inputs/IA_sprint.uasset",
+				"B:/NeedsToBeDone/ProjectAzrael/Project-Azrael/CombatTEST/CombatTesting/Content/toTransfer/nonAnimations/inputs/IA_Zoom.uasset",
+				"B:/NeedsToBeDone/ProjectAzrael/Project-Azrael/CombatTEST/CombatTesting/Content/toTransfer/nonAnimations/inputs/IMC_defaultSet.uasset",
+				"B:/NeedsToBeDone/ProjectAzrael/Project-Azrael/CombatTEST/CombatTesting/Content/toTransfer/nonAnimations/ABP_TransferRig02.uasset",
+				"B:/NeedsToBeDone/ProjectAzrael/Project-Azrael/CombatTEST/CombatTesting/Content/toTransfer/nonAnimations/blendingGamemode.uasset",
+				"B:/NeedsToBeDone/ProjectAzrael/Project-Azrael/CombatTEST/CombatTesting/Content/toTransfer/nonAnimations/BP_mainCharacter.uasset",
+				"B:/NeedsToBeDone/ProjectAzrael/Project-Azrael/CombatTEST/CombatTesting/Content/toTransfer/nonAnimations/BS_TransferRigV2.uasset",
+				"B:/NeedsToBeDone/ProjectAzrael/Project-Azrael/CombatTEST/CombatTesting/Content/toTransfer/nonAnimations/CombatBSShortsword.uasset",
+				"B:/NeedsToBeDone/ProjectAzrael/Project-Azrael/CombatTEST/CombatTesting/Content/toTransfer/nonAnimations/CombatBSShortswordPre.uasset",
+				"B:/NeedsToBeDone/ProjectAzrael/Project-Azrael/CombatTEST/CombatTesting/Content/toTransfer/nonAnimations/MD_CombatWalk.uasset",
+				"B:/NeedsToBeDone/ProjectAzrael/Project-Azrael/CombatTEST/CombatTesting/Content/Main.umap"
+			]
+		}
+	]
+}
