@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Project-Azrael/Azrael_MasterProject/Content/__ExternalActors__/Levels/Testing/D/KE/3JMPSDU4BJGZN0WPH1UNDV.uasset",
+				"C:/Project-Azrael/Azrael_MasterProject/Content/Levels/Level01.umap",
+				"C:/Project-Azrael/Azrael_MasterProject/Content/Characters/SquireV3/BluePrints/BP_SquireV3.uasset",
+				"C:/Project-Azrael/Azrael_MasterProject/Content/Characters/SquireV3/BluePrints/ABP_SquireV3.uasset",
 				"B:/NeedsToBeDone/ProjectAzrael/Project-Azrael/Azrael_MasterProject/Content/Levels/Testing_HLOD0_Instancing.uasset",
 				"B:/NeedsToBeDone/ProjectAzrael/Project-Azrael/Azrael_MasterProject/Content/__ExternalActors__/Levels/Testing/C/OK/C28578SDZ0DQU2BOKZZMHH.uasset",
 				"B:/NeedsToBeDone/ProjectAzrael/Project-Azrael/Azrael_MasterProject/Content/__ExternalObjects__/Levels/Testing/8/TM/JC02Q8APZ7B82WWVKHVWVU.uasset",
@@ -6294,7 +6298,6 @@
 				"B:/NeedsToBeDone/ProjectAzrael/Project-Azrael/Azrael_MasterProject/Content/Inventory/Pickup_item.uasset",
 				"B:/NeedsToBeDone/ProjectAzrael/Project-Azrael/Azrael_MasterProject/Content/Inventory/Inventory.uasset",
 				"B:/NeedsToBeDone/ProjectAzrael/Project-Azrael/Azrael_MasterProject/Content/Inventory/Pickup_interface.uasset",
-				"C:/Project-Azrael/Azrael_MasterProject/Content/__ExternalActors__/Levels/Testing/D/KE/3JMPSDU4BJGZN0WPH1UNDV.uasset",
 				"C:/Project-Azrael/Azrael_MasterProject/Content/toTransfer/ToTransfer2/BP_mainCharacter.uasset",
 				"C:/Project-Azrael/Azrael_MasterProject/Content/Blueprints/Inputs/IA_HeavyAttack.uasset",
 				"C:/Project-Azrael/Azrael_MasterProject/Content/Blueprints/Inputs/IA_MoveForward.uasset",
