@@ -1,3 +1,6 @@
-2023/11/14-15:52:06.746 11b8 Reusing MANIFEST B:/NeedsToBeDone/ProjectAzrael/Project-Azrael/Azrael_MasterProject/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2023/11/14-15:52:06.747 11b8 Recovering log #3
-2023/11/14-15:52:06.750 11b8 Reusing old log B:/NeedsToBeDone/ProjectAzrael/Project-Azrael/Azrael_MasterProject/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2023/12/07-19:49:59.155 771c Reusing MANIFEST B:/NeedsToBeDone/ProjectAzrael/Project-Azrael/Azrael_MasterProject/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/12/07-19:49:59.157 771c Recovering log #3
+2023/12/07-19:49:59.159 771c Reusing old log B:/NeedsToBeDone/ProjectAzrael/Project-Azrael/Azrael_MasterProject/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2023/12/07-19:52:10.537 9620 Level-0 table #5: started
+2023/12/07-19:52:10.544 9620 Level-0 table #5: 18266 bytes OK
+2023/12/07-19:52:10.546 9620 Delete type=0 #3

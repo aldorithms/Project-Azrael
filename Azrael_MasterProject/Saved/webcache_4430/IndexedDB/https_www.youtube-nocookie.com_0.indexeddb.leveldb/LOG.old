@@ -1,0 +1,6 @@
+2023/11/13-14:00:22.403 894 Creating DB B:/NeedsToBeDone/ProjectAzrael/Project-Azrael/Azrael_MasterProject/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2023/11/13-14:00:22.416 894 Reusing MANIFEST B:/NeedsToBeDone/ProjectAzrael/Project-Azrael/Azrael_MasterProject/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/13-14:12:40.390 3538 Level-0 table #5: started
+2023/11/13-14:12:40.396 3538 Level-0 table #5: 1167 bytes OK
+2023/11/13-14:12:40.397 3538 Delete type=0 #3
+2023/11/13-14:12:40.398 3538 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
