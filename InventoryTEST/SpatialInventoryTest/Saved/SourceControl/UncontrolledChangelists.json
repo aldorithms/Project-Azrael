@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Code/Project-Azrael/InventoryTEST/SpatialInventoryTest/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/aldor/source/repos/Project-Azrael/InventoryTEST/SpatialInventoryTest/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/aldor/source/repos/Project-Azrael/InventoryTEST/SpatialInventoryTest/Content/Inventory/Inventory_Widget.uasset",
 				"C:/Users/aldor/source/repos/Project-Azrael/InventoryTEST/SpatialInventoryTest/Content/Inventory/InventoryGrid_Widget.uasset",
